@@ -1,0 +1,41 @@
+*
+{
+    background-color: #222;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner
+{
+    background-image: url("https://occ-0-7613-3663.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdvTEbcqWIVSCe2gEgWXwpts5Gqa-BfAjo0_lIBvQXWJNMCwS3YbhkEXSs3Sr0dqqBR3b7XmW71P0fqVHcAjhIrQXojRChHCUFoN.jpg?r=321");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+    max-width: 100%;
+}
+.posters
+{
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    
+}
+.poster
+{
+    margin: 1.5%  1%;
+    border-radius: 4px;
+}
+.posters::-webkit-scrollbar
+{
+    display: none;
+}
+.title
+{
+    font-family:sans-serif , Helvetica;
+    font-weight: 100;
+    font-size:larger;
+    margin: 5px 7px;
+    
+}

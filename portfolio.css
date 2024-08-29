@@ -1,0 +1,44 @@
+.line
+{
+    background-color: seashell;
+    color: rgb(201, 154, 93);
+    text-align: center;
+    
+}
+.box1
+{
+    background-color: coral;
+    margin: 50px;
+    padding: 40px 0px;
+    box-sizing: border-box;
+}
+.text
+{
+    background-color: aqua;
+    margin: 0rem 0rem 0rem 70rem;
+    padding: 40px 0px;
+}
+.newone
+{
+    font-family:Arial, Helvetica, sans-serif;
+    color:cadetblue;
+    font-weight: 200;
+    font-size: 1.2rem;
+}
+.drop
+{
+    filter: drop-shadow(2px 6px 15px rgb(255, 0, 0));
+    max-width: 30%;
+}
+
+.banner
+{
+    background-image: url("https://img.freepik.com/free-photo/cartoon-students-school_23-2151657436.jpg?t=st=1724840583~exp=1724844183~hmac=912ceeae540f0edc8c584cdd3a846ba7b278bbf6bf0591a193c5f7560140b7db&w=740");
+    background-position: center center;
+    height: 448px;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+
+}
